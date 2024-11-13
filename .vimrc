@@ -1,4 +1,4 @@
-" Options
+" Options test
 set encoding=utf8
 set clipboard=unnamedplus " Enables the clipboard between Vim/Neovim and other applications.
 set completeopt=noinsert,menuone,noselect " Modifies the auto-complete menu to behave more like an IDE.
